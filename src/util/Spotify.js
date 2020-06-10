@@ -1,4 +1,4 @@
-const CLIENT_ID = 'ecad851b79cc4e7abcd655deab68db19';
+const CLIENT_ID = 'ecad851b79c****************';
 const REDIRECT_URL = 'http://jammmingHaniel.surge.sh/';
 let accessToken;
 
